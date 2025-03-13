@@ -1,0 +1,8 @@
+OUTPUT:
+Enter text: I love this product
+Sentiment: positive
+Enter text: I hate this product
+Sentiment: negative
+Enter text: I am using this product
+Sentiment: neutral
+
